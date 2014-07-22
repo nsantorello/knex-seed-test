@@ -1,0 +1,10 @@
+{
+    "name": "knex-seed-test",
+    "description": "Sample project showcasing knex seed feature I've added",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "knex": "git://github.com/nsantorello/knex.git",
+        "sqlite3": "*"
+    }
+}
